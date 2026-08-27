@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    color: #333;
+    background-image: url('https://wallpaperaccess.com/full/700745.jpg');
+    background-size: cover;
+    padding: 1rem;
+}
+
+header {
+    background: #f4f4f4;
+    text-align: center;
+}
+
+main {
+    padding: 1rem;
+}
+
+footer {
+    background: #f4f4f4;
+    padding: 1rem;
+    text-align: center;
+}
