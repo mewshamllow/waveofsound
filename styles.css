@@ -1,20 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Iceberg&display=swap');
+
 body {
-    font-family: Arial, sans-serif;
+    font-family: 'Iceberg', cursive;
     line-height: 1.6;
-    margin: 0;
+    margin: 5%;
     padding: 0;
-    color: #333;
-    background-image: url('https://wallpaperaccess.com/full/700745.jpg');
-    background-size: cover;
-    padding: 1rem;
+    color: #800000;
+    background-color: #12151c;
+}
+
+#content {
+    width: 800px;
+    margin: 0 auto;
+    background-color: #1b222c;
+    padding: 25px 50px 75px 100px;
 }
 
 header {
-    text-align: center;
-}
+    text-align: center;}
 
+    
 main {
-    padding: 1rem;
+    padding: auto;
+    text-align: center;
 }
 
 footer {
